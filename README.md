@@ -1,5 +1,4 @@
 # Image-Stitching-using-Interest-points
-Panorama creation using BoW methodology
 
 The major steps for image stitching and panorama creation is as follows:-
 1. Detect key points and extract local invariant descriptors (SIFT) from the two input images.
